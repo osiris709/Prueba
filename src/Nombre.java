@@ -11,6 +11,6 @@ public class Nombre {
     System.out.println("Cual es tu nombre?");
     nombre = leer.nextLine();
     
-    System.out.println("Bienvenido esto es una actualizacion" + nombre);
+    System.out.println("Bienvenido" + nombre);
     }
 }
